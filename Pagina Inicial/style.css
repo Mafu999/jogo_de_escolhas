@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+header{
+    background-color: #261d22;
+    text-align: center;
+    padding: 7%;
+}
+header h1{
+    font-family: 'Train One', cursive;
+}
+section{
+    text-align: center;
+    background-color: #0d0108;
+    padding: 10%;
+    font-family: 'Train One', cursive;
+    color: white;
+}
+section h3{
+    padding: 11%;
+}
+section .cleiton{
+    height: 30%;
+    width: 40%;
+}
+section .chris{
+    height: 38%;
+    width: 48%;
+}
+footer{
+    background-color: #261d22;
+    text-align: center;   
+    padding: 4%;
+}

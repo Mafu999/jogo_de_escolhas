@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Train One', cursive;
+    color: white;
+}
+html,body{
+    height: 100%;
+}
+header{
+    background-color: #261d22;
+    text-align: center;
+    padding: 7%;
+    border-bottom: 15px double gray;
+}
+section{
+    text-align: center;
+    background-color: #0d0108;
+    padding: 10%;
+}
+section ul{
+    padding: 10%;
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: space-between;
+}
+section ul li{
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+section a{
+    border: 2px solid gray;
+    background-color: gray;
+    height: 10%;
+    width: 10%;
+    border-radius: 10px;
+    text-decoration: none;
+}
+section a:hover{
+    background-color: #546d94;
+    transition: 0.7s;
+}
+section button{
+    border: 2px solid gray;
+    background-color: gray;
+    height: 10%;
+    width: 10%;
+    border-radius: 10px;
+    text-decoration: none;
+}
+section button:hover{
+    background-color: #546d94;
+    transition: 0.7s;
+}
+footer{
+    background-color: #261d22;
+    text-align: center;   
+    padding: 4%;
+}
