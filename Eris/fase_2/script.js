@@ -46,7 +46,7 @@ function faseDois(){
                 <h2>Um alarme foi acionado quando vocês entraram na nave pelo trem de pouso
                 um robô policial de dentro logo te localizou e pulverizou com sua arma de raio
                 você e sua filha.</h2>
-                     <a href="../../Pagina Inicial/index.html">Retornar</a>
+                     <a href="../../index.html">Retornar</a>
             </div>
         </section>
         <footer> 

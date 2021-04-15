@@ -18,7 +18,7 @@ function faseTres(){
             <div>
             <h1>GAME OVER!</h1>
                 <h2>Você nunca vai saber a verdade sobre seu pai.</h2>
-                     <a href="../../Pagina Inicial/index.html">Retornar</a>
+                     <a href="../../index.html">Retornar</a>
             </div>
         </section>
         <footer> 

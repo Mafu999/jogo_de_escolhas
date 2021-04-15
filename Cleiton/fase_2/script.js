@@ -20,7 +20,7 @@ function faseDois(){
                 <h2>Você chegou no local de entrega e se deparou com um homem mal encarado.
                 ele estalou os dedos e agentes do governo surgiram, cheio de armas apontadas 
                 pra você.</h2>
-                     <a href="../../Pagina Inicial/index.html">Retornar</a>
+                     <a href="../../index.html">Retornar</a>
             </div>
         </section>
         <footer> 

@@ -19,7 +19,7 @@ function faseDois(){
             <h1>GAME OVER!</h1>
                 <h2>Todos reagiram agressivamente e alguns decepcionados. Você
                 foi linchado por eles.</h2>
-                     <a href="../../Pagina Inicial/index.html">Retornar</a>
+                     <a href="../../index.html">Retornar</a>
             </div>
         </section>
         <footer> 

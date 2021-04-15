@@ -19,7 +19,7 @@ function faseUm()
                 <div>
                 <h1>GAME OVER!</h1>
                     <h2>Sua filha tossiu até a morte.</h2>
-                         <a href="../../Pagina Inicial/index.html">Retornar</a>
+                         <a href="../../index.html">Retornar</a>
                 </div>
             </section>
             <footer> 

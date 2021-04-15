@@ -18,7 +18,7 @@ function faseTres(){
             <div>
             <h1>GAME OVER!</h1>
                 <h2>Você atirou na cabeça do técnico, mas isso alertou os robôs policiais.</h2>
-                     <a href="../../Pagina Inicial/index.html">Retornar</a>
+                     <a href="../../index.html">Retornar</a>
             </div>
         </section>
         <footer> 
