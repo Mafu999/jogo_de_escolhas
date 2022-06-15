@@ -47,6 +47,8 @@ function faseUm()
                          <a href="../fase_2/index.html">Avançar</a>
                 </div>
             </section>
+            <footer> 
+            </footer>  
         `;
         var resultado = prompt("Qual a sua escolha? Digite apenas a letra atribuída à alternativa.")
         if(resultado == "a"){
